@@ -17,7 +17,7 @@ Tugas ini menerapkan enam metode penting array di JavaScript: **map(), filter(),
 ### filter()
 - **Tujuan:** Mengambil semua nama yang panjangnya lebih dari 5 huruf.
 - **Screenshot:**
-![Screenshot](./images/fiter().png)
+![Screenshot](./images/filter().png)
 
 ### reduce()
 - **Tujuan:** Menghitung total panjang dari semua nama yang ada di array.
