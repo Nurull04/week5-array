@@ -5,7 +5,7 @@
 - NIM  : F1D022085
 
 ## Deskripsi Tugas
-Tugas ini menerapkan enam metode penting array di JavaScript: **map(), filter(), reduce(), find(), some(), every()** dengan data array buatan sendiri yang berisi 10 elemen.
+Tugas ini menerapkan enam metode penting array di JavaScript: **map(), filter(), reduce(), find(), some(), every()** dengan data array buatan sendiri yang berisi 12 elemen.
 
 ## Implementasi
 
